@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rehan1124
-- 👀 I’m learning **Smart Contract** / **Blockchain Development** [Solidity(Ethereum), Remix IDE, JavaScript, Mocha (for unit testing)]
-- 🌱 I wish to become a Blockchain Application Developer some day 👩‍💻📱;
-- 💞️ I’m looking to collaborate on projects if you are following Blockchain Application Development;
+- 👀 I’m a Senior Test Engineer / QA Lead with Sensormatic Solutions
+- 🌱 Having 10 years of experience in QA / Testing field, I have expertise in Manual as well as Automation Testing of web-application and RestAPI
+- 💞️ I’m looking for new job opportunties as Lead QA
 - 📫 How to reach me ... https://www.linkedin.com/in/syed-rehan-9a287a5b/
 - Projects to check -> Visit any of the pinned repos;
 
