@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rehan1124
 - 👀 I’m a Senior Test Engineer / QA Lead with Sensormatic Solutions
-- 🌱 Having 10 years of experience in QA / Testing field, I have expertise in Manual as well as Automation Testing of web-application and RestAPI
+- 🌱 10 years experience in QA / Testing field • Expertise in Manual as well as Automation Testing • Python • Pytest • Selenium • UI and API Testing • Allure reports • Jenkins • Docker
 - 💞️ I’m looking for new job opportunties as Lead QA
-- 📫 How to reach me ... https://www.linkedin.com/in/syed-rehan-9a287a5b/
+- 📫 Reach me out on -> https://www.linkedin.com/in/syed-rehan-9a287a5b/
 - Projects to check -> Visit any of the pinned repos;
 
 <!---
